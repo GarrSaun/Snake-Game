@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HighScores>
+  <Score>
+    <name>aaa</name>
+    <score>1</score>
+  </Score>
+  <Score>
+    <name>bbb</name>
+    <score>2</score>
+  </Score>
+</HighScores>
